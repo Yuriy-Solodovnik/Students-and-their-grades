@@ -1,0 +1,16 @@
+D:\VS_Programs\SPZ5\SPZ5\bin\Debug\SPZ5.exe.config
+D:\VS_Programs\SPZ5\SPZ5\bin\Debug\SPZ5.exe
+D:\VS_Programs\SPZ5\SPZ5\bin\Debug\SPZ5.pdb
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.csprojAssemblyReference.cache
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.Form1.resources
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.Properties.Resources.resources
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.csproj.GenerateResource.cache
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.csproj.CoreCompileInputs.cache
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.exe
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.pdb
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.studentForm.resources
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.subjectForm.resources
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.markForm.resources
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.removeStudentForm.resources
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.removeSubjectForm.resources
+D:\VS_Programs\SPZ5\SPZ5\obj\Debug\SPZ5.filterStudentsForm.resources
